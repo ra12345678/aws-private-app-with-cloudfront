@@ -1,8 +1,6 @@
-# AWS Private App with CloudFront (Internal ALB + VPC Origin + Private RDS + Private S3 UI)
+# **Highly Secure Edge Architecture — Zero Public Backend Exposure**
+## AWS Private App with CloudFront (Internal ALB + VPC Origin + Private RDS + Private S3 UI)
 
-### **Highly Secure Edge Architecture — Zero Public Backend Exposure**
-
-#  AWS Infrastructure (CloudFront + Internal ALB + EC2 + RDS + Private Networking)
 ![Architecture Diagram](diagram-export-30-10-2025-18_37_21.png)
 
 ### 🏗️ Edge and DNS
